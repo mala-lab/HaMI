@@ -78,7 +78,7 @@ Other parameters related to the results in our paper:
 
 ### Citation
 If you find this work helpful, please cite:
-```
+```bibtex
 @article{niu2025robust,
   title={Robust Hallucination Detection in LLMs via Adaptive Token Selection},
   author={Niu, Mengjia and Haddadi, Hamed and Pang, Guansong},
